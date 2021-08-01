@@ -27,5 +27,4 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyubaba&layout=compact&langs_count=7&theme=dracula"/>
  </div>
   
-<img src="https://komarev.com/ghpvc/?username=oyubaba&color=green" alt="oyubaba"/>
 
