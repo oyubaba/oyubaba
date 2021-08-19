@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 🎒 Estudando HTML E CSS
+- 🎒 Graduanda em Sistemas de Informação
 - ♀️ Pronouns: ela/dela
 ##
 
