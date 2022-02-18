@@ -6,7 +6,7 @@
 ##
 
 <div>
-  <a href="https://instagram.com/oyubaba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
   <a href="https://api.whatsapp.com/send?phone=5548988388391" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tatiane-espíndola-a7a2b91a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://open.spotify.com/user/22qxxewcobf6ngudkrvnzcy6q?si=Ppzb0zNCTdWDI61Y3vif5A&utm_source=copy-li&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
