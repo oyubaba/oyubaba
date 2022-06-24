@@ -23,7 +23,7 @@
 <div>
   <a href="https://github.com/oyubaba">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=oyubaba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyubaba&layout=compact&langs_count=5&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyubaba&layout=compact&langs_count=8&theme=dark"/>
  </div>
   
 
