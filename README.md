@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🎒 Fomada em Sistemas de Informação
-- 👩‍💻 Frontend Developer | React | TypeScript | Next.js
+- 🎒 Formada em Sistemas de Informação
+- 👩‍💻 React | TypeScript | Next.js
 
 ##
 
